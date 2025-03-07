@@ -1,5 +1,4 @@
 #include <SoftwareSerial.h>
-#include <Servo.h> // Include the Servo library for motor control
 #include <SoftwareSerial.h> 
 
 Servo motor;       // Servo motor object
